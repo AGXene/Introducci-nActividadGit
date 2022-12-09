@@ -11,7 +11,7 @@ namespace Archivo_cs
         static void Main(string[] args)
         {
 
-            Console.WriteLine("cum");
+            Console.WriteLine("cum la abuelita");
 
         }
     }
